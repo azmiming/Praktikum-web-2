@@ -35,3 +35,6 @@ div > div > p{
 .subbagian#teks {
     color:brown;
 }
+p:hover {
+    background-color: black;
+}
