@@ -1,0 +1,37 @@
+#teks-kuning {
+    color:yellow;   
+}
+
+div p {
+    color:red;
+
+}
+div > div > p{
+    font-weight: bold;
+}
+
+.teks-merah {
+    font-size: 20px;
+    text-align: center;
+    background-color: black;
+    color:red;
+}
+
+.teks-kuning {
+    font-size: 20px;
+    text-align: center;
+    background-color: black;
+    color:yellow;
+}
+
+.subbagian {
+    font-size: 30px;
+}
+
+.subbagian.header {
+    color:blueviolet;
+}
+
+.subbagian#teks {
+    color:brown;
+}
