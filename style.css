@@ -38,3 +38,8 @@ div > div > p{
 p:hover {
     background-color: black;
 }
+
+* {
+    color:blue;
+    border: 2px solid red;
+}
